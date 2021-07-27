@@ -8,22 +8,22 @@ const useAxios = (url, titleHeader) => {
   const [isError, setIsError] = useState(null);
 
   useEffect(() => {
-    setTimeout(() => {
-      const fetchPosts = async () => {
-        try {
-          const response = await axios.get(url);
-          const posts = response.data;
-          setPosts(posts);
-        } catch (err) {
-          err.message = "gagal mengambil data dari API";
-          setIsError(err.message);
-        } finally {
-          setIsLoading(false);
-        }
-      };
+    // setTimeout(() => {
+    const fetchPosts = async () => {
+      try {
+        const response = await axios.get(url);
+        const posts = response.data;
+        setPosts(posts);
+      } catch (err) {
+        err.message = "gagal mengambil data dari API";
+        setIsError(err.message);
+      } finally {
+        setIsLoading(false);
+      }
+    };
 
-      fetchPosts();
-    }, 300);
+    fetchPosts();
+    // }, 300);
   }, [url]);
 
   return { posts, isLoading, isError, titleHeader };
