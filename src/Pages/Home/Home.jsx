@@ -5,7 +5,8 @@ import React from "react";
 import Layout from "../../Components/Layout";
 import CardPost from "../../Components/CardPost";
 import FeaturedPost from "../../Components/FeaturedPost";
-import GetDataLoading from "../../Components/GetDataLoading";
+// import GetDataLoading from "../../Components/GetDataLoading";
+import Skeleton from "../../skeleton/Skeleton";
 
 // Api
 import useAxios from "../../utils/useAxios";
@@ -14,11 +15,9 @@ import GetDataError from "../../Components/GetDataError";
 const Home = () => {
   let featuredPost;
 
-  console.log(process.env.REACT_APP_API_URL);
-
   // Fetching Data Featured Post From API
   const { posts:featured, isLoading, isError } = useAxios(
-    `http://localhost:3000/posts?featured=true`
+    `http://localhost:3000/posts?featurjjed=true`
   );
   
   // Fetching Data Post From API
@@ -37,7 +36,7 @@ const Home = () => {
   if (isLoading)
     return (
       <Layout>
-        <GetDataLoading/>
+        <Skeleton/>
       </Layout>
     );
   

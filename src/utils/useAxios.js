@@ -8,7 +8,6 @@ const useAxios = (url, titleHeader) => {
   const [isError, setIsError] = useState(null);
 
   useEffect(() => {
-    // setTimeout(() => {
     const fetchPosts = async () => {
       try {
         const response = await axios.get(url);
@@ -23,7 +22,7 @@ const useAxios = (url, titleHeader) => {
     };
 
     fetchPosts();
-    // }, 300);
+    // }, 5000);
   }, [url]);
 
   return { posts, isLoading, isError, titleHeader };
