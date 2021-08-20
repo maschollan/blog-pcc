@@ -5,7 +5,7 @@ import dateToString from "../utils/dateToString";
 
 const featuredPost = ({ data }) => {
   if (data === false) {
-    return <></>;
+    return "";
   } else {
     return (
       <article className="text-white box-border">

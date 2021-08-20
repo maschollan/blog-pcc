@@ -33,7 +33,7 @@ const BlogPage = ({ data, titleHeader, loading, error }) => {
     <Layout>
       <div className={loading || error ? "hidden" : ""}>
         {data.length !== 0 ?
-          <>
+          <div>
             <h2 className="text-4xl text-center pt-10 pb-4 tracking wide">
               {title ? `${titleHeader} : ${title}` : titleHeader}
             </h2>
@@ -46,13 +46,13 @@ const BlogPage = ({ data, titleHeader, loading, error }) => {
                 );
               })}
             </div>
-          </>
+          </div>
           :
           <div className="text-center tracking-wide">
             <h2 className="text-4xl py-10">
               {title ? `${titleHeader} : ${title}` : titleHeader}
             </h2> 
-            <h2 className="text-5xl py-10 pb-5">No result 😥</h2>
+            <h2 className="text-5xl py-10 pb-5">No result <span role="img" aria-label="emoji">😥</span></h2>
             <p className="text-lg">Kami tidak dapat menemukan postingan dengan kata kunci `<strong className="tracking-loose text-red-200">{title}</strong>`.</p>
             <p className="text-lg"> Silakan coba kata kunci lain.</p>
           </div>

@@ -55,7 +55,7 @@ const Home = () => {
       <div className="flex py-6 flex-wrap">
         {posts.map((post) => {
           return (
-            <div className="w-full px-3 lg:w-4/12 md:w-6/12">
+            <div className="w-full px-3 lg:w-4/12 md:w-6/12 text-g">
               <CardPost key={post.id} data={post} />
             </div>
           );

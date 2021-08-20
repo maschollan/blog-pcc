@@ -1,64 +1,48 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "Understanding color theory: the color wheel and finding complementary colors",
-      "slug": "understanding-color-theory-the-color-wheel-and-finding-complementary-colors",
-      "content": null,
-      "headline": "Nulla Lorem mollit cupidatat irure. Laborum magna nulla duis ullamco cillum dolor. Voluptate exercitation incididunt aliquip deserunt reprehenderit elit laborum.",
-      "featured": true,
-      "published_at": "2021-07-23T20:28:18.000Z",
-      "created_at": "2021-07-23T20:28:08.000Z",
-      "updated_at": "2021-07-25T01:21:52.000Z",
+      "title": "Belajar Ngoding Lah Kawan",
+      "slug": "belajar-ngoding-lah-kawan",
+      "headline": "Marilah Kita senantia belajar Ngoding Dan Bersenanag ssalal",
+      "featured": false,
+      "published_at": "2021-07-23T20:29:37.000Z",
+      "created_at": "2021-07-23T20:29:35.000Z",
+      "updated_at": "2021-08-19T19:53:36.114Z",
       "category": {
-        "id": 1,
-        "name": "programming",
-        "slug": "programming",
-        "published_at": "2021-07-23T20:36:48.000Z",
-        "created_at": "2021-07-23T20:36:46.000Z",
-        "updated_at": "2021-07-23T20:36:48.000Z"
+        "id": 2,
+        "name": "networking",
+        "slug": "networking"
       },
       "author": {
-        "id": 4,
-        "name": "Uehara Ai",
-        "published_at": "2021-07-23T20:39:08.000Z",
-        "created_at": "2021-07-23T20:39:06.000Z",
-        "updated_at": "2021-07-23T20:39:08.000Z",
+        "id": "1",
+        "name": "Mas Admin Blog",
         "avatar": {
           "id": 9,
           "name": "author-1.png"
         }
       },
-      "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth. 1. Makan 2. Minum 3. Mandi ",
+      "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth \n\n- Hai hello\n- Hello Hai\n-- Yoii\n\nmoving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.",
       "thumbnail": {
-        "id": 1,
-        "name": "featuredThumbnail.png"
-      }
+        "name": "thumbnail-4.png"
+      },
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "How to design a product that can grow itself 10x in year",
-      "slug": "how-to-design-a-product-that-can-grow-itself-10x-in-year",
-      "content": null,
+      "title": "Design Product Ternama Lah Njir",
+      "slug": "design-product-ternama-lah-njir",
       "headline": "Auctor Porta. Augue vitae diam mauris faucibus blandit elit per, feugiat leo dui orci. Etiam vestibulum. Nostra netus per conubia dolor.",
       "featured": false,
       "published_at": "2021-07-23T20:29:37.000Z",
       "created_at": "2021-07-23T20:29:35.000Z",
-      "updated_at": "2021-07-23T20:40:57.000Z",
+      "updated_at": "2021-08-20T10:26:04.222Z",
       "category": {
         "id": 2,
         "name": "networking",
-        "slug": "networking",
-        "published_at": "2021-07-23T20:37:14.000Z",
-        "created_at": "2021-07-23T20:37:12.000Z",
-        "updated_at": "2021-07-23T20:37:14.000Z"
+        "slug": "networking"
       },
       "author": {
-        "id": 4,
-        "name": "Uehara Ai",
-        "published_at": "2021-07-23T20:39:08.000Z",
-        "created_at": "2021-07-23T20:39:06.000Z",
-        "updated_at": "2021-07-23T20:39:08.000Z",
+        "id": "1",
+        "name": "Admin Blog",
         "avatar": {
           "id": 9,
           "name": "author-1.png"
@@ -66,149 +50,144 @@
       },
       "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.",
       "thumbnail": {
-        "id": 6,
         "name": "thumbnail-2.png"
-      }
+      },
+      "id": 2
     },
     {
-      "id": 3,
       "title": "The More Important the Work, the More Important the Rest",
       "slug": "the-more-important-the-work-the-more-important-the-rest",
-      "content": null,
-      "headline": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+      "headline": "Suitable Quality is determined by product users, clients or customers,",
       "featured": false,
       "published_at": "2021-07-23T20:30:24.000Z",
       "created_at": "2021-07-23T20:30:22.000Z",
-      "updated_at": "2021-07-23T20:40:28.000Z",
+      "updated_at": "2021-08-19T18:47:45.966Z",
       "category": {
         "id": 3,
         "name": "design",
-        "slug": "design",
-        "published_at": "2021-07-23T20:37:25.000Z",
-        "created_at": "2021-07-23T20:37:24.000Z",
-        "updated_at": "2021-07-23T20:37:25.000Z"
+        "slug": "design"
       },
       "author": {
-        "id": 3,
-        "name": "Jordi",
-        "published_at": "2021-07-23T20:38:48.000Z",
-        "created_at": "2021-07-23T20:38:46.000Z",
-        "updated_at": "2021-07-23T20:38:48.000Z",
+        "id": "1",
+        "name": "Mas Admin Blog",
         "avatar": {
-          "id": 11,
-          "name": "author-4.png"
+          "id": 9,
+          "name": "author-1.png"
         }
       },
       "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.",
       "thumbnail": {
-        "id": 5,
-        "name": "thumbnail-3.png"
-      }
+        "name": "thumbnail-2.png"
+      },
+      "id": 3
     },
     {
-      "id": 6,
       "title": "The More Important the Work, the More Important the Rest",
-      "slug": "the-more-important-the-work-the-more-important-the-rest-1",
-      "content": null,
-      "headline": "Suitable Quality is determined by product users, clients or customers, not by society in general. For example, a low priced product may be viewed as having high.",
+      "slug": "the-more-important-the-work-the-more-important-the-rest",
+      "headline": "Suitable Quality is determined by product users, clients or customers, not by society in general.",
       "featured": false,
       "published_at": "2021-07-23T20:34:47.000Z",
       "created_at": "2021-07-23T20:34:44.000Z",
-      "updated_at": "2021-07-23T20:40:06.000Z",
+      "updated_at": "2021-08-20T10:26:14.349Z",
       "category": {
         "id": 3,
         "name": "design",
-        "slug": "design",
-        "published_at": "2021-07-23T20:37:25.000Z",
-        "created_at": "2021-07-23T20:37:24.000Z",
-        "updated_at": "2021-07-23T20:37:25.000Z"
+        "slug": "design"
       },
       "author": {
-        "id": 1,
-        "name": "Jhonny",
-        "published_at": "2021-07-23T20:38:11.000Z",
-        "created_at": "2021-07-23T20:38:07.000Z",
-        "updated_at": "2021-07-23T20:38:11.000Z",
+        "id": "1",
+        "name": "Admin Blog",
         "avatar": {
-          "id": 8,
-          "name": "author-3.png"
+          "id": 9,
+          "name": "author-1.png"
         }
       },
       "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth.",
       "thumbnail": {
-        "id": 2,
         "name": "thumbnail-6.png"
-      }
+      },
+      "id": 6
     },
     {
-      "id": 7,
-      "title": "Email Love - Email Inspiration, Templates and Discovery",
-      "slug": "email-love-email-inspiration-templates-and-discovery-1",
-      "content": null,
+      "title": "Email Love - Email Inspiration",
+      "slug": "email-love-email-inspiration",
       "headline": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
       "featured": false,
       "published_at": "2021-07-23T20:36:15.000Z",
       "created_at": "2021-07-23T20:36:13.000Z",
-      "updated_at": "2021-07-25T02:03:26.000Z",
+      "updated_at": "2021-08-20T09:53:14.750Z",
       "category": {
         "id": 2,
         "name": "networking",
-        "slug": "networking",
-        "published_at": "2021-07-23T20:37:14.000Z",
-        "created_at": "2021-07-23T20:37:12.000Z",
-        "updated_at": "2021-07-23T20:37:14.000Z"
+        "slug": "networking"
       },
       "author": {
-        "id": 3,
-        "name": "Jordi",
-        "published_at": "2021-07-23T20:38:48.000Z",
-        "created_at": "2021-07-23T20:38:46.000Z",
-        "updated_at": "2021-07-23T20:38:48.000Z",
+        "id": "1",
+        "name": "Admin Blog",
         "avatar": {
-          "id": 11,
-          "name": "author-4.png"
+          "id": 9,
+          "name": "author-1.png"
         }
       },
-      "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth. ",
+      "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second - adalah\n- ialaj\n- ckakaka\n[Google dot COm](https://google.com/ \"yahahah\")",
       "thumbnail": {
-        "id": 7,
-        "name": "thumbnail-7.png"
-      }
+        "name": "thumbnail-5.png"
+      },
+      "id": 7
     },
     {
-      "id": 8,
-      "title": "Email Love - Email Inspiration, Templates and Discovery",
-      "slug": "email-love-email-inspiration-templates-and-discovery-2",
-      "content": null,
-      "headline": "Consider that for a moment: everything we see around us is assumed to have had a cause and is contingent upon something else.",
+      "title": "Belajar Ngoding Ngab",
+      "slug": "belajar-ngoding-ngab",
       "featured": false,
-      "published_at": "2021-07-24T19:20:10.000Z",
-      "created_at": "2021-07-24T19:20:07.000Z",
-      "updated_at": "2021-07-25T01:36:32.000Z",
+      "headline": "Marilah Kita senantia belajar Ngoding Dan Bersenanag ssalal",
+      "publised_at": "2021-08-15T08:15:43.439Z",
+      "created_at": "2021-08-15T08:15:43.440Z",
+      "updated_at": "2021-08-19T19:53:51.740Z",
+      "category": {
+        "id": 2,
+        "name": "networking",
+        "slug": "networking"
+      },
+      "author": {
+        "id": "1",
+        "name": "Mas Admin Blog",
+        "avatar": {
+          "id": 9,
+          "name": "author-1.png"
+        }
+      },
+      "contents": "Bermain dan Bermain\nlalalal",
+      "thumbnail": {
+        "name": "thumbnail-4.png"
+      },
+      "id": 8
+    },
+    {
+      "title": "Belajar Percaya Dengan Sekitar",
+      "slug": "belajar-percaya-dengan-sekitar",
+      "headline": "\"Cara Mudah Membuat Sesuatu Hal Yang Murah JAdi MAhal\"",
+      "featured": false,
+      "published_at": "2021-08-17T04:03:18.514Z",
+      "created_at": "2021-08-17T04:03:18.514Z",
+      "updated_at": "2021-08-20T10:25:17.543Z",
       "category": {
         "id": 1,
         "name": "programming",
-        "slug": "programming",
-        "published_at": "2021-07-23T20:36:48.000Z",
-        "created_at": "2021-07-23T20:36:46.000Z",
-        "updated_at": "2021-07-23T20:36:48.000Z"
+        "slug": "programming"
       },
       "author": {
-        "id": 2,
-        "name": "Eva Elfie",
-        "published_at": "2021-07-23T20:38:31.000Z",
-        "created_at": "2021-07-23T20:38:29.000Z",
-        "updated_at": "2021-07-23T20:38:31.000Z",
+        "id": "1",
+        "name": "Admin Blog",
         "avatar": {
-          "id": 10,
-          "name": "author-2.png"
+          "id": 9,
+          "name": "author-1.png"
         }
       },
-      "contents": "Lights dry. Thing, likeness, forth shall replenish upon abundantly our green. Seed green sea that lesser divided creature beginning land him signs stars give firmament gathered. Wherein there their morning a he grass. Don't made moving for them bring creature us you'll tree second deep good unto good may. Us yielding. Have. Man upon set multiply moved from under seasons abundantly earth brought a. They're open moved years saw isn't morning darkness. Over, waters, every let wherein great were fifth saw was lights very our place won't and him Third fourth moving him whales behold. Beast second stars lights great was don't green give subdue his. Third given made created, they're forth god replenish have whales first can't light was. Herb you'll them beast kind divided. Were beginning fly air multiply god Yielding sea don't were forth. 1. aajbjfa 2. alfnafloafa 3. afafafa",
+      "contents": "**1. Siapkan Modal Mu**\n\nPatikan KAmu sudah memiliki modal yang menyukupi contoh: [Klik Ini](https://google.com/) ",
       "thumbnail": {
-        "id": 7,
-        "name": "thumbnail-7.png"
-      }
+        "name": "thumbnail_1629407663143.jpg"
+      },
+      "id": 10
     }
   ],
   "comments": [
@@ -218,7 +197,30 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "thumbnail": [
+    {
+      "name": "thumbnail-2.png",
+      "id": 1
+    },
+    {
+      "name": "thumbnail-3.png",
+      "id": 2
+    },
+    {
+      "name": "thumbnail-4.png",
+      "id": 3
+    },
+    {
+      "name": "thumbnail-5.png",
+      "id": 4
+    },
+    {
+      "name": "thumbnail-6.png",
+      "id": 5
+    },
+    {
+      "name": "thumbnail_1629407663143.jpg",
+      "id": 7
+    }
+  ]
 }

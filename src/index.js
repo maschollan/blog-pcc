@@ -7,6 +7,7 @@ import App from "./App";
 
 // Styling
 import "./styles/output.css";
+import "./choll.css";
 
 ReactDOM.render(
   <React.StrictMode>

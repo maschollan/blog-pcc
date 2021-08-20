@@ -1067,6 +1067,9 @@ module.exports = {
           backgroundRepeat: "no-repeat",
           backgroundPosition: "10px",
         },
+        "text-g": {
+          color:  colors.amber
+        }
       };
       addUtilities(extendUnderline);
     },

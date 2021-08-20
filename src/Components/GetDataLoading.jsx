@@ -3,7 +3,6 @@ import React from 'react'
 
 const GetDataLoading = () => {
     return (
-      <>
         <div className="flex flex-col justify-center items-center min-h-(custom-height)">
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +22,6 @@ const GetDataLoading = () => {
             sedang memuat konten...
           </p>
         </div>
-      </>
     )
 }
 
